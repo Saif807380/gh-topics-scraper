@@ -1,0 +1,39 @@
+beautifulsoup4 @ file:///Users/saifkazi/Library/Caches/pypoetry/artifacts/d4/3e/b2/b4df19cca3023c21eb4a289b88c132ac71a9517bddef2055fd38eadd39/beautifulsoup4-4.10.0-py3-none-any.whl
+CacheControl==0.12.10
+cachy==0.3.0
+certifi==2021.10.8
+charset-normalizer==2.0.10
+cleo==0.8.1
+click @ file:///Users/saifkazi/Library/Caches/pypoetry/artifacts/34/4d/5b/2e936191a48c61e37319c157af7e3c0dbdde9b80ccdd04b7940f99c5db/click-8.0.3-py3-none-any.whl
+clikit==0.6.2
+crashtest==0.3.1
+distlib==0.3.4
+filelock==3.4.2
+html5lib==1.1
+idna==3.3
+keyring==21.8.0
+lockfile==0.12.2
+msgpack==1.0.3
+numpy @ file:///Users/saifkazi/Library/Caches/pypoetry/artifacts/33/5b/2d/1623845413022fabcce6590a494c44be1ffa547e72d66d45fadbc75e5e/numpy-1.22.1-cp39-cp39-macosx_10_9_x86_64.whl
+packaging==20.9
+pandas @ file:///Users/saifkazi/Library/Caches/pypoetry/artifacts/d9/b6/7f/7014f6ad29530dce41444ac8497a638f8cf1391912e4d71c2f71b31273/pandas-1.3.5-cp39-cp39-macosx_10_9_x86_64.whl
+pastel==0.2.1
+pexpect==4.8.0
+pkginfo==1.8.2
+platformdirs==2.4.1
+poetry==1.1.12
+poetry-core==1.0.7
+ptyprocess==0.7.0
+pylev==1.4.0
+pyparsing==3.0.7
+python-dateutil @ file:///Users/saifkazi/Library/Caches/pypoetry/artifacts/53/f8/2a/7d63ce15df7386e9536e83413453f8aa845b47fb425f05c4ca2fb231c3/python_dateutil-2.8.2-py2.py3-none-any.whl
+pytz @ file:///Users/saifkazi/Library/Caches/pypoetry/artifacts/3e/f3/dd/6629bf5ed0a970a128e0a015f2af3b67280e749a56fdaabdaa06d5fc6b/pytz-2021.3-py2.py3-none-any.whl
+requests==2.27.1
+requests-toolbelt==0.9.1
+shellingham==1.4.0
+six==1.16.0
+soupsieve @ file:///Users/saifkazi/Library/Caches/pypoetry/artifacts/d6/e3/46/df82bc73fb10e31f7b04a84f47a5779830a07eeb6a6fa547e6d39ba88f/soupsieve-2.3.1-py3-none-any.whl
+tomlkit==0.8.0
+urllib3==1.26.8
+virtualenv==20.13.0
+webencodings==0.5.1
